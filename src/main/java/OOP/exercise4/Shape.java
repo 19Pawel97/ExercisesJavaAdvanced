@@ -1,4 +1,4 @@
-package OOP.Exercise4;
+package OOP.exercise4;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
